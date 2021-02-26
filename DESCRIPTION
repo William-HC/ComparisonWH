@@ -1,0 +1,11 @@
+Package: ComparisonWH
+Title: Comparison of means
+Version: 1.0.1
+Authors@R: 
+    person("William", "Herrera-Caceres", email = "williamandresh@hotmail.com", role = c("aut","cre"))
+Description: The package include functions to perform exploratory analysis.
+License: Part of R 3.6.3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
